@@ -1,5 +1,6 @@
 Overview
 Summarize the project and what problem it was solving: 
+A:
 This is a C++ application that allows users to manipulate time in both 12-hour and 24-hour formats. Users can input an initial time and choose to add hours, minutes, or seconds to the time. The application displays the updated time in both 12-hour and 24-hour formats.
 Features
 Input initial time in 12-hour or 24-hour format
